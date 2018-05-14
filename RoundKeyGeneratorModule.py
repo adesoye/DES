@@ -6,7 +6,7 @@ class RoundKeyGenerator:
     Round key Generator.
     This system is a subsystem of the DES system. The RoundKeyGenerator system
     is made up of a class "RoundKeyGenerator" and seven functions.
-    Altogether, this system produces 16 keys. These keys are used to encrypt data.
+    Altogether, this system produces 16 keys. 
 
     @param:  key
     @return: list of 16 keys
